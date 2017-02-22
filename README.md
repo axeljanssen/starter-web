@@ -14,3 +14,8 @@ Even more purpose
 
 ## Deployments
 This is a simple web project
+
+
+## Copyright
+
+2014 me, myself and I
