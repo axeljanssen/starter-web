@@ -10,5 +10,7 @@ This is an example to show differents parts of the Git repository and various co
 ## Purpose
 
 Sample website with plenty of files for demos
+Even more purpose
 
 ## Deployments
+This is a simple web project
