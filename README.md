@@ -23,4 +23,4 @@ More changes from myfeature branch too.
 
 ## Copyright
 
-2014 me, myself and I
+2014 me, myself and I. All rights reserved
