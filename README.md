@@ -19,6 +19,7 @@ This is a simple web project
 
 Please fork this repository and then issue Pull Request
 And really work hard!
+More changes from myfeature branch too. 
 
 ## Copyright
 
